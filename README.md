@@ -32,5 +32,4 @@ blockchain technologies can ensure information integrity, ticket buyers can use 
 stored in the blockchainnetwork to ensure the authenticity of the purchased tickets and
 to resolve related disputes.
 # Repo
-Link:
-
+Link : https://github.com/Event-Ticket-Management/Event
